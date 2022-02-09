@@ -1,12 +1,12 @@
-# Abstract Collections
+# studioThirteen Collections
 
 This Project is made with HTML5, CSS3, ReactJS, Axios, MetaMask, thirdweb, Rinkeby Test Network, Web 3.0 Technologies, and OpenSea API.
 
 
-![alt text](https://raw.githubusercontent.com/Shobhit1338/react-abstract-nft-collection/NFT/public/AbstractNFT.gif)
+![alt text](https://raw.githubusercontent.com/ei9h7/react-nft-collection/NFT/public/AbstractNFT.gif)
 
 
-# Abstract Collections - An NFT Collection
+# abc Collection - An NFT Collection
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
